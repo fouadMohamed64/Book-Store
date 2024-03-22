@@ -1,0 +1,464 @@
+
+
+[
+    {
+      "id": 1,
+      "title": "Fiction Books",
+      "cover_image": "imgs/fic.jpeg",
+      "cat":[ {
+        "id": 20,
+        "author_id": 4,
+        "title": "the book of doors",
+        "cover_image": "imgs/fic/fic1.jpg",
+        "pages": 296,
+        "releaseDate": "1987",
+        "isbn": "hj846",
+        "price" : "300"
+      },
+      {
+        "id": 21,
+        "author_id": 4,
+        "title": "the lost bookshop",
+        "cover_image": "imgs/fic/fic2.jpeg",
+        "pages": 505,
+        "releaseDate": "2002",
+        "isbn": "op012",
+        "price" : "350"
+      },
+      {
+        "id": 22,
+        "author_id": 4,
+        "title": "the book of gothel",
+        "cover_image": "imgs/fic/fic3.jpeg",
+        "pages": 208,
+        "releaseDate": "2004",
+        "isbn": "cv456",
+        "price" : "400"
+      },
+      {
+        "id": 23,
+        "author_id": 4,
+        "title": "girladine brooks",
+        "cover_image": "imgs/fic/fic4.jpeg",
+        "pages": 928,
+        "releaseDate": "2009",
+        "isbn": "al207",
+        "price" : "450"
+      }
+    ]
+    },
+    {
+      "id": 2,
+      "title": "Romantic Books",
+      "cover_image": "imgs/romatic.jpeg",
+      "cat":[ {
+        "id": 24,
+        "author_id": 4,
+        "title": "best romance",
+        "cover_image": "imgs/ro/ro1.jpg",
+        "pages": 296,
+        "releaseDate": "1987",
+        "isbn": "hj846",
+        "price" : "300"
+      },
+      {
+        "id": 25,
+        "author_id": 4,
+        "title": "romance novels",
+        "cover_image": "imgs/ro/ro2.jpeg",
+        "pages": 505,
+        "releaseDate": "2002",
+        "isbn": "op012",
+        "price" : "350"
+      },
+      {
+        "id": 26,
+        "author_id": 4,
+        "title": "technically years",
+        "cover_image": "imgs/ro/ro3.jpeg",
+        "pages": 208,
+        "releaseDate": "2004",
+        "isbn": "cv456",
+        "price" : "400"
+      },
+      {
+        "id": 27,
+        "author_id": 4,
+        "title": "do i know you",
+        "cover_image": "imgs/ro/ro4.jpeg",
+        "pages": 928,
+        "releaseDate": "2009",
+        "isbn": "al207",
+        "price" : "450"
+      }
+    ]
+    },
+    {
+      "id": 3,
+      "title": "War Books",
+      "cover_image": "imgs/war.jpeg",
+      "cat":[ {
+        "id": 28,
+        "author_id": 4,
+        "title": "the art of war",
+        "cover_image": "imgs/war/war1.jpeg",
+        "pages": 296,
+        "releaseDate": "1987",
+        "isbn": "hj846",
+        "price" : "300"
+      },
+      {
+        "id": 29,
+        "author_id": 4,
+        "title": "the spoils of war",
+        "cover_image": "imgs/war/war2.png",
+        "pages": 505,
+        "releaseDate": "2002",
+        "isbn": "op012",
+        "price" : "350"
+      },
+      {
+        "id": 30,
+        "author_id": 4,
+        "title": "the art of war",
+        "cover_image": "imgs/war/war3.jpeg",
+        "pages": 208,
+        "releaseDate": "2004",
+        "isbn": "cv456",
+        "price" : "400"
+      },
+      {
+        "id": 31,
+        "author_id": 4,
+        "title": "wings of war",
+        "cover_image": "imgs/war/war4.jpeg",
+        "pages": 928,
+        "releaseDate": "2009",
+        "isbn": "al207",
+        "price" : "450"
+      }
+    ]
+    },
+    {
+      "id": 4,
+      "title": "Technology Books",
+      "cover_image": "imgs/tech.jpeg",
+      "cat":[ {
+        "id": 32,
+        "author_id": 4,
+        "title": "the nature of technology",
+        "cover_image": "imgs/tech/tech1.jpeg",
+        "pages": 296,
+        "releaseDate": "1987",
+        "isbn": "hj846",
+        "price" : "300"
+      },
+      {
+        "id": 33,
+        "author_id": 4,
+        "title": "understanding technology",
+        "cover_image": "imgs/tech/tech2.jpeg",
+        "pages": 505,
+        "releaseDate": "2002",
+        "isbn": "op012",
+        "price" : "350"
+      },
+      {
+        "id": 34,
+        "author_id": 4,
+        "title": "relating throw technology",
+        "cover_image": "imgs/tech/tech3.jpeg",
+        "pages": 208,
+        "releaseDate": "2004",
+        "isbn": "cv456",
+        "price" : "400"
+      },
+      {
+        "id": 35,
+        "author_id": 4,
+        "title": "explaning the future",
+        "cover_image": "imgs/tech/tech4.jpeg",
+        "pages": 928,
+        "releaseDate": "2009",
+        "isbn": "al207",
+        "price" : "450"
+      }
+    ]
+    },
+    {
+      "id": 5,
+      "title": "Action Books",
+      "cover_image": "imgs/action.jpeg",
+      "cat":[ {
+        "id": 36,
+        "author_id": 4,
+        "title": "the FBI",
+        "cover_image": "imgs/action/ac1.jpeg",
+        "pages": 296,
+        "releaseDate": "1987",
+        "isbn": "hj846",
+        "price" : "300"
+      },
+      {
+        "id": 37,
+        "author_id": 4,
+        "title": "jeffrey archer",
+        "cover_image": "imgs/action/ac2.jpeg",
+        "pages": 505,
+        "releaseDate": "2002",
+        "isbn": "op012",
+        "price" : "350"
+      },
+      {
+        "id": 38,
+        "author_id": 4,
+        "title": "rick riordan",
+        "cover_image": "imgs/action/ac3.jpeg",
+        "pages": 208,
+        "releaseDate": "2004",
+        "isbn": "cv456",
+        "price" : "400"
+      },
+      {
+        "id": 39,
+        "author_id": 4,
+        "title": "empire of lies",
+        "cover_image": "imgs/action/ac4.jpeg",
+        "pages": 928,
+        "releaseDate": "2009",
+        "isbn": "al207",
+        "price" : "450"
+      }
+    ]
+    },
+    {
+      "id": 6,
+      "title": "Sea Books",
+      "cover_image": "imgs/sea.jpeg",
+      "cat":[ {
+        "id": 40,
+        "author_id": 4,
+        "title": "wild sea",
+        "cover_image": "imgs/sea/sea1.jpeg",
+        "pages": 296,
+        "releaseDate": "1987",
+        "isbn": "hj846",
+        "price" : "300"
+      },
+      {
+        "id": 41,
+        "author_id": 4,
+        "title": "spying on whales",
+        "cover_image": "imgs/sea/sea2.jpeg",
+        "pages": 505,
+        "releaseDate": "2002",
+        "isbn": "op012",
+        "price" : "350"
+      },
+      {
+        "id": 42,
+        "author_id": 4,
+        "title": "the sea",
+        "cover_image": "imgs/sea/sea3.jpeg",
+        "pages": 208,
+        "releaseDate": "2004",
+        "isbn": "cv456",
+        "price" : "400"
+      },
+      {
+        "id": 43,
+        "author_id": 4,
+        "title": "sea mammals",
+        "cover_image": "imgs/sea/sea4.jpeg",
+        "pages": 928,
+        "releaseDate": "2009",
+        "isbn": "al207",
+        "price" : "450"
+      }
+    ]
+    },
+    {
+      "id": 7,
+      "title": "Chess Boooks",
+      "cover_image": "imgs/chess.jpeg",
+      "cat":[ {
+        "id": 44,
+        "author_id": 4,
+        "title": "chess",
+        "cover_image": "imgs/chess/chess1.jpeg",
+        "pages": 296,
+        "releaseDate": "1987",
+        "isbn": "hj846",
+        "price" : "300"
+      },
+      {
+        "id": 45,
+        "author_id": 4,
+        "title": "puzzle book",
+        "cover_image": "imgs/chess/chess2.jpeg",
+        "pages": 505,
+        "releaseDate": "2002",
+        "isbn": "op012",
+        "price" : "350"
+      },
+      {
+        "id": 46,
+        "author_id": 4,
+        "title": "great chess books",
+        "cover_image": "imgs/chess/chess3.jpeg",
+        "pages": 208,
+        "releaseDate": "2004",
+        "isbn": "cv456",
+        "price" : "400"
+      },
+      {
+        "id": 47,
+        "author_id": 4,
+        "title": "ted fischer chess",
+        "cover_image": "imgs/chess/chess4.jpeg",
+        "pages": 928,
+        "releaseDate": "2009",
+        "isbn": "al207",
+        "price" : "450"
+      }
+    ]
+    },
+    {
+      "id": 8,
+      "title": "Animals Books",
+      "cover_image": "imgs/animal.jpeg",
+      "cat":[ {
+        "id": 48,
+        "author_id": 4,
+        "title": "night of the animals",
+        "cover_image": "imgs/ani/an1.jpeg",
+        "pages": 296,
+        "releaseDate": "1987",
+        "isbn": "hj846",
+        "price" : "300"
+      },
+      {
+        "id": 49,
+        "author_id": 4,
+        "title": "i see a rabbit",
+        "cover_image": "imgs/ani/an2.jpeg",
+        "pages": 505,
+        "releaseDate": "2002",
+        "isbn": "op012",
+        "price" : "350"
+      },
+      {
+        "id": 50,
+        "author_id": 4,
+        "title": "un likely aniamls",
+        "cover_image": "imgs/ani/an3.jpeg",
+        "pages": 208,
+        "releaseDate": "2004",
+        "isbn": "cv456",
+        "price" : "400"
+      },
+      {
+        "id": 51,
+        "author_id": 4,
+        "title": "when animals dream",
+        "cover_image": "imgs/ani/an4.jpeg",
+        "pages": 928,
+        "releaseDate": "2009",
+        "isbn": "al207",
+        "price" : "450"
+      }
+    ]
+    },
+    {
+      "id": 9,
+      "title": "Novels Books",
+      "cover_image": "imgs/novels.jpeg",
+      "cat":[ {
+        "id": 52,
+        "author_id": 4,
+        "title": "heroes",
+        "cover_image": "imgs/nov/nov1.jpeg",
+        "pages": 296,
+        "releaseDate": "1987",
+        "isbn": "hj846",
+        "price" : "300"
+      },
+      {
+        "id": 53,
+        "author_id": 4,
+        "title": "the last day",
+        "cover_image": "imgs/nov/nov2.jpeg",
+        "pages": 505,
+        "releaseDate": "2002",
+        "isbn": "op012",
+        "price" : "350"
+      },
+      {
+        "id": 54,
+        "author_id": 4,
+        "title": "when heroes flew",
+        "cover_image": "imgs/nov/nov3.jpeg",
+        "pages": 208,
+        "releaseDate": "2004",
+        "isbn": "cv456",
+        "price" : "400"
+      },
+      {
+        "id": 55,
+        "author_id": 4,
+        "title": "hold fast",
+        "cover_image": "imgs/nov/nov4.jpeg",
+        "pages": 928,
+        "releaseDate": "2009",
+        "isbn": "al207",
+        "price" : "450"
+      }
+    ]
+    },
+    {
+      "id": 10,
+      "title": "Stars Books",
+      "cover_image": "imgs/stars.jpeg",
+      "cat":[ {
+        "id": 56,
+        "author_id": 4,
+        "title": "a bucket of stars",
+        "cover_image": "imgs/st/at4.jpeg",
+        "pages": 296,
+        "releaseDate": "1987",
+        "isbn": "hj846",
+        "price" : "300"
+      },
+      {
+        "id": 57,
+        "author_id": 4,
+        "title": "wirtten in the stars",
+        "cover_image": "imgs/st/st1.jpeg",
+        "pages": 505,
+        "releaseDate": "2002",
+        "isbn": "op012",
+        "price" : "350"
+      },
+      {
+        "id": 58,
+        "author_id": 4,
+        "title": "dark stars",
+        "cover_image": "imgs/st/st2.jpeg",
+        "pages": 208,
+        "releaseDate": "2004",
+        "isbn": "cv456",
+        "price" : "400"
+      },
+      {
+        "id": 59,
+        "author_id": 4,
+        "title": "star bringer",
+        "cover_image": "imgs/st/st3.jpeg",
+        "pages": 928,
+        "releaseDate": "2009",
+        "isbn": "al207",
+        "price" : "450"
+      }
+    ]
+    }
+  ]
